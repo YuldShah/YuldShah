@@ -1,0 +1,5 @@
+- Yuldashev Shahriyor
+- Student at NewUU 28'
+- Presidential School in Fergana 24'
+- Tech-enthuathist
+- In the way to make a contribution to society ;)
