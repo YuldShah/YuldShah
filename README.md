@@ -6,7 +6,7 @@
 - 👨‍💻 Tech-enthuathist
 - 🌱 On the way to make a contribution to society ;)
 
-## My Social Media Pages
+## My pages
 - [LinkTree](https://linktr.ee/yuldshah)
 
 ## Programming languages I know:
