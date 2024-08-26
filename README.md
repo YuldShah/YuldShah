@@ -6,6 +6,9 @@
 - 👨‍💻 Tech-enthuathist
 - 🌱 On the way to make a contribution to society ;)
 
+## My Social Media Pages
+- [LinkTree](https://linktr.ee/yuldshah)
+
 ## Programming languages I know:
 - [Python](https://www.python.org/)
 - [C++](https://cplusplus.com/doc/tutorial/)
