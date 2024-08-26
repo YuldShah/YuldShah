@@ -1,5 +1,5 @@
-# About me
-## Shahriyor Yuldashev
+# Shahriyor Yuldashev
+## Me
 - 🐊 18 years old
 - 🎓 Student at NewUU 28'
 - 👨‍🎓 Presidential School in Fergana 24'
