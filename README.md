@@ -1,4 +1,8 @@
-# Shahriyor Yuldashev
+<h1 align="center">
+  Hi, there! — I'm <a href="https://linktr.ee/yuldshah">Shahriyor Yuldashev</a> ✌️
+</h1>
+Here, you can give a look at some of my programming projects 😉
+
 ## About me
 - 🐊 18 years old
 - 🎓 Student at NewUU 28'
