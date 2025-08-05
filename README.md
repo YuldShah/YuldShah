@@ -11,12 +11,18 @@ Here, you can give a look at some of my programming projects 😉
 - 🌱 On the way to make a contribution to society ;)
 
 ## My pages
-- 🌲[LinkTree](https://linktr.ee/yuldshah)
+- 🌲[LinkTree](https://tr.ee/ysh)
 
-## Programming languages I know:
-- 🐍[Python](https://www.python.org/)
-- ⚡[C++](https://cplusplus.com/doc/tutorial/)
-- 🍵[Java](https://www.java.com/) (not really tho)
+## Vibe-coding (anything, because I'm a fast learner)
+
+## Actual skills
+- Programming language base: C, C++, Python, JavaScript, Java
+- Framework and APIs: React, Django, Spring, Aiogram, Telegram API (so far i worked with)
+- DB knowledge: Postgres, MySQL, Redis, SQL (I'm naming everything I've had experience with)
+- PC skills: I can do a lot of stuff related to PCs - OS installations, bug fixes, customization, working with office apps, game pirating (plz dont arrest me for that)
+- Soft skills: Humour, Communcation
+
+### Basically I can do a lot of stuff related to tech
 
 <h2>
   Stuff I like to do
